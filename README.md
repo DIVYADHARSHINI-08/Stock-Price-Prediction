@@ -70,11 +70,13 @@ for epoch in range(epochs):
 
 ### True Stock Price, Predicted Stock Price vs time
 
-Include your plot here
+![download](https://github.com/user-attachments/assets/916bf9a6-e897-4e4e-a5fa-59605944206c)
+
 
 ### Predictions 
 
-Include the predictions on test data
+![download](https://github.com/user-attachments/assets/07c9a9dd-eac4-4c69-838a-87678e923bf4)
+
 
 ## Result
 Thus, a Recurrent Neural Network model for stock price prediction has successfully been devoloped.
